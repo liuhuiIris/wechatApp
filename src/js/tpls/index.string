@@ -3,10 +3,8 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
-	<link rel="stylesheet" href="/prd/css/app.css"/>
 </head>
 <body>
-	hello fekit
+	index.string
 </body>
-<script src="/prd/js/app.js"></script>
 </html>
